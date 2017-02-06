@@ -1,6 +1,5 @@
 # EulerProblems
-Solutions to Project Euler problems
+My solutions to Project Euler problems. Unless otherwise stated the problems have been solved using Java.
 
-PROBLEMS SOLVED (ID)
-1, 2
-
+Kind regards,
+Jimmy Kungsman

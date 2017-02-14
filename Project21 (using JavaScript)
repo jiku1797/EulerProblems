@@ -46,7 +46,8 @@ The form has integer validation.
 			
     		if (upLimit.match(regex)){ //validation
 				var ans = "The sum of all amicable numbers less than "
-					+ upLimit + " is " + result + ".</br>"; 
+					+ upLimit + " is " + result + ".</br>";
+				ansNode.style.color = "black";
 				document.getElementById("ansDiv").innerHTML = ans;
 			}
 			else{

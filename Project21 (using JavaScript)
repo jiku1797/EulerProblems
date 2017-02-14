@@ -5,7 +5,8 @@ s(n).
 
 The solution comes in form of a website where the user inputs the upper limit for 
 which he or she wants to calculate the sum of all amicable numbers. The answer comes out as 31626. 
-The form has integer validation.  
+The form has integer validation. 
+© Jimmy Kungsman 2017
 -->
 
 <! DOCTYPE html>

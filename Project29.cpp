@@ -30,7 +30,7 @@ vector<vector<int>> getPairs(int aMax, int bMax){
     vector<vector<int>> allPairs;
     
     for(int i=2; i<=aMax; i++){
-        for(int j=2; j<=aMax; j++){
+        for(int j=2; j<=bMax; j++){
             vector<int> singlePair = {i,j};
             allPairs.push_back(singlePair);
         }
